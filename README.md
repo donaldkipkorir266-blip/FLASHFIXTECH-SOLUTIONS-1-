@@ -55,12 +55,11 @@ You can replace them with your own project images.
 
 ---
 
-## 💝 Donate / Support
+## 💝 Support
 
 If you’d like to support or contribute to Flashfix Tech’s mission of helping young digital creatives in Kenya:
 
 - **M-PESA:** 0702478554  
-- **PayPal:** [donaldkipkorir266@gmail.com](mailto:donaldkipkorir266@gmail.com)
 
 ---
 
